@@ -11,7 +11,7 @@
 | Projekt · Project | 🇩🇪 Worum es geht | 🇬🇧 What it does | Stack |
 |---|---|---|---|
 | [**MicLED**](https://github.com/toolwerk/micled) | Die Luxafor-Lampe zeigt, wann du auf Sendung bist: Mikrofon, Kamera, Timer, Slack-Status, Home Assistant. | Your Luxafor light shows when you're on air: microphone, camera, focus timer, Slack status, Home Assistant. | Rust · Swift · macOS |
-| [**toolwerk-ui**](https://github.com/toolwerk/toolwerk-ui) 🚧 | *In Arbeit.* Gemeinsame Gestaltungsregeln für die Oberflächen der Werkzeuge: Theme, Bausteine und eine Referenzseite für Admin-Oberflächen. | *Work in progress.* Shared design rules for the tools' interfaces: theme, components and a reference page for admin UIs. | daisyUI · Tailwind CSS |
+| [**toolwerk-ui**](https://github.com/toolwerk/toolwerk-ui) 🚧 | *In Arbeit.* Gemeinsame Gestaltungsregeln für die Oberflächen der Werkzeuge: Web-UI-Richtlinie mit Theme, Bausteinen und einer Referenzseite. | *Work in progress.* Shared design rules for the tools' interfaces: a web UI guide with theme, components and a reference page. | daisyUI · Tailwind CSS |
 
 ## Grundsätze · Principles
 
