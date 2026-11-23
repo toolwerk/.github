@@ -12,6 +12,7 @@
 |---|---|---|---|
 | [**MicLED**](https://github.com/toolwerk/micled) | Die Luxafor-Lampe zeigt, wann du auf Sendung bist: Mikrofon, Kamera, Timer, Slack-Status, Home Assistant. | Your Luxafor light shows when you're on air: microphone, camera, focus timer, Slack status, Home Assistant. | Rust · Swift · macOS |
 | [**Rackmon**](https://github.com/toolwerk/rackmon) | Ein kleines Display im Rack zeigt, wie es deinen Rechnern gerade geht: Agenten für Linux, macOS und Windows, ein Server, ein Streifen-Dashboard. | A small display in your rack shows how your machines are doing: agents for Linux, macOS and Windows, one server, one strip dashboard. | Go · Linux · macOS · Windows |
+| [**lbmute**](https://github.com/toolwerk/lbmute) | Schaltet den Eingang eines einzelnen Audiogeräts stumm, etwa eines Loopback-Geräts, ohne das echte Mikrofon anzufassen: ein Kommandozeilenwerkzeug für Sprachchat und Diktat. | Mutes the input of a single audio device, such as a Loopback device, without touching the real microphone: a command-line tool for voice chat and dictation. | Swift · Core Audio · macOS |
 | [**toolwerk-ui**](https://github.com/toolwerk/toolwerk-ui) 🚧 | *In Arbeit.* Gemeinsame Gestaltungsregeln für die Oberflächen der Werkzeuge: Web-UI-Richtlinie mit Theme, Bausteinen und einer Referenzseite. | *Work in progress.* Shared design rules for the tools' interfaces: a web UI guide with theme, components and a reference page. | daisyUI · Tailwind CSS |
 
 ## Grundsätze · Principles
